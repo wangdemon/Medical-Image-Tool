@@ -1,0 +1,6 @@
+NDims = 3
+DimSize = 125 154 145
+ElementType = MET_UCHAR
+ElementSpacing = 0.0127651 0.0127389 0.0128079
+ElementByteOrderMSB = False
+ElementDataFile = heart.raw
