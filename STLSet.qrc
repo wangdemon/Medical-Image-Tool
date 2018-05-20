@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="STLSet">
+    <file>Resources/9.png</file>
+  </qresource>
+</RCC>

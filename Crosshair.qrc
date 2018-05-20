@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Crosshair">
+    <file>Resources/2.png</file>
+    <file>Resources/6.png</file>
+    <file>Resources/7.png</file>
+  </qresource>
+</RCC>

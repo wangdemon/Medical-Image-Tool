@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="DistanceMeasurement">
+    <file>Resources/8.jpg</file>
+  </qresource>
+</RCC>

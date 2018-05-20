@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="MedicalImageTool">
+    <file>Resources/exit.png</file>
+    <file>Resources/fileopen.png</file>
+    <file>Resources/filesave.png</file>
+  </qresource>
+</RCC>
