@@ -2,7 +2,7 @@
 Using ITK, VTK, Qt  to browse medical images and other functions.
 The source code has been compiled with Qt 4.8.5, VTK 6.3, Visual Studio 2010, CMake 2.12 and X64 Window7.
 
-** CMake settings for compiling VTK **  
+**CMake settings for compiling VTK**  
 Note that compiler compilation cannot be done by default compilation when compiling VTK.
 You need to set the following settings
 
