@@ -14,3 +14,9 @@ set(Module_vtkGUISupportQtOpenGL ON CACHE BOOL "Module_vtkGUISupportQtOpenGL")
 set(Module_vtkRenderingQt ON CACHE BOOL "Module_vtkRenderingQt")  
 set(BUILD_TESTING OFF CACHE BOOL "BUILD_TESTING")  
 set(VTK_RENDERING_BACKEND_DEFAULT "OpenGL")
+# Result 1
+![image](https://github.com/wangdemon/Medical-Image-Tool/blob/master/Result/pic1.png)
+# Result 2
+![image](https://github.com/wangdemon/Medical-Image-Tool/blob/master/Result/pic2.png)
+# Result 3
+![image](https://github.com/wangdemon/Medical-Image-Tool/blob/master/Result/pic3.png)
